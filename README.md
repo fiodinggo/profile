@@ -1,2 +1,2 @@
-# profile
-Web
+# PROFILE
+https://fiodinggo.github.io/profile/
